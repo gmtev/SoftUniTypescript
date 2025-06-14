@@ -1,3 +1,4 @@
+export { }
 // Even Sum
 
 function isSumEven(a: number, b: number, c: number): boolean {
